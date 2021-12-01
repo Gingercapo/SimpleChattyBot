@@ -1,2 +1,3 @@
 # SimpleChattyBot
- you will introduce yourself to the bot. It will greet you by your name and then try to guess your age using arithmetic operations.
+
+creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let’s hit the road, my friend!
